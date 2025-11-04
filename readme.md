@@ -4,8 +4,6 @@
 
 A sophisticated insurance policy chatbot that combines **ChromaDB vector search**, **Google Gemini 2.0 Flash**, and **semantic document processing** to provide accurate, context-aware responses about insurance policies and coverage. Features a fully modular **ES6 frontend architecture** and **containerized deployment**.
 
-![AnyoneAI Logo](frontend/assets/anioneai.png)
-
 ## ✨ Features
 
 ### 🤖 **AI-Powered Responses**
@@ -385,7 +383,7 @@ proyectoFinal_InsuranceChatBot/
 │   ├── index.html            # 🎨 Main web interface
 │   ├── styles.css            # ✨ 3D styling & animations
 │   ├── script.js             # ⚡ Chat functionality
-│   └── assets/anioneai.png   # 🏷️ AnyoneAI logo
+│   └── assets/.png   # 🏷️ AnyoneAI logo
 └── data/                     # 📁 Insurance documents
     ├── POL*.pdf              # Insurance policy PDFs
     └── structure_data/       # CSV data files
